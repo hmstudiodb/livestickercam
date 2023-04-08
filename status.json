@@ -1,15 +1,27 @@
 [{
+  "guess.my.number": {
+      "is_id": "85460dcd",
+
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_vi": "",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
+
+      "interval": 10000,
+
+      "ads_list": ["am", "is"]
+    },
 	"com.dynamic.island.ios16": {
-      "is_id": "1830eca85",
+      "is_id": "",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-5026697429632379/9042854722",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["zz"]
     },
     "tiktok.speedup.downloader.review": {
       "status":2,
