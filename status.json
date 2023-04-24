@@ -12,7 +12,7 @@
       "status":2,
       "version_code":2,
       "update_info":{
-        "title":"A new version is available",
+        "update_title":"A new version is available",
         "button_name":"Update app",
         "des":"Our App makes writing music easy! Create your own music and beats. Creating music wherever you are with EasyBeat. The beats will add a special rhythm to the sound.\nEasyBeat is the only simple music creation app that expresses your musical talents.\nAn extensive library of the highest quality and most fashionable sound packs in the launcher.",
         "package":"com.uminate.easybeat",
