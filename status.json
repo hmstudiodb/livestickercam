@@ -35,17 +35,17 @@
 
       "ads_list": ["am", "is"]
     },
-	"com.dynamic.island.ios16": {
+	"sweet.beauty.camera": {
       "is_id": "",
 
-      "am_ba": "",
-      "am_in": "",
+      "am_ba": "ca-app-pub-4405630775762626/1906150361",
+      "am_in": "ca-app-pub-4405630775762626/2473180473",
       "am_vi": "",
-      "am_na": "",
+      "am_na": "ca-app-pub-4405630775762626/1491271296",
 
-      "interval": 60000,
+      "interval": 30000,
 
-      "ads_list": ["zz"]
+      "ads_list": ["am"]
     },
     "tiktok.speedup.downloader.review": {
       "status":2,
