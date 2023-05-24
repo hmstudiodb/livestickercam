@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/icon.png",
-      "cover": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/graphic.png",
-      "appName": "World Cup 2022 Schedule",
-      "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "livescore.schedule.worldcup",
+      "icon": "https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/icon.png",
+      "cover": "https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/graphic.png",
+      "appName": "Renaissance Mouth Filter",
+      "description": "Renaissance Mouth Filter is the best choice for you if you are looking for an outstanding selfie filter camera!",
+      "package": "renaissance.filter.mouth.portrait",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/icon1.png",
-      "cover": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/graphic1.png",
-      "appName": "World Cup 2022 Schedule",
-      "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "livescore.schedule.worldcup",
+      "icon": "https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/icon1.png",
+      "cover": "https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/graphic1.png",
+      "appName": "ID Photo Filter for TikTok",
+      "description": "Filter for TikTok - Amazing Camera Filters for fantastic photos with Funny face filters. FREE for a limited time!",
+      "package": "id.photo.effect.tiktok",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
