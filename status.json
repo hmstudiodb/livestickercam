@@ -23,17 +23,17 @@
 
       "ads_list": ["am", "is"]
     },
-  "guess.my.number.test": {
-      "is_id": "85460dcd",
+  "filters.snap.selfie": {
+      "is_id": "",
 
-      "am_ba": "ca-app-pub-3940256099942544/6300978111",
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_ba": "ca-app-pub-4405630775762626/5438166845",
+      "am_in": "ca-app-pub-4405630775762626/7290304562",
       "am_vi": "",
-      "am_na": "ca-app-pub-3940256099942544/2247696110",
+      "am_na": "ca-app-pub-4405630775762626/9597721940",
 
-      "interval": 10000,
+      "interval": 45000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["am"]
     },
 	"sweet.beauty.camera": {
       "is_id": "",
@@ -43,7 +43,7 @@
       "am_vi": "",
       "am_na": "ca-app-pub-4405630775762626/1491271296",
 
-      "interval": 30000,
+      "interval": 45000,
 
       "ads_list": ["am"]
     },
