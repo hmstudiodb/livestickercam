@@ -33,8 +33,39 @@
 
       "interval": 45000,
 
+      "status":2,
+      "version_code":10,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Filters for Selfies is an indescribable look, we have paid particular attention to the best HD screen quality. Sweet Filter app make fantastic photos with Filters for Selfies effect.",
+        "package":"filters.selfie.camera.selfie",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/icon3.png",
+        "app_name":"Filters for Selfies"
+      },
+
+
       "ads_list": ["am"]
     },
+    "guess.my.number": {
+      "is_id": "",
+
+      "status":2,
+      "version_code":10,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Filters for Selfies is an indescribable look, we have paid particular attention to the best HD screen quality. Sweet Filter app make fantastic photos with Filters for Selfies effect.",
+        "package":"filters.selfie.camera.selfie",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/icon3.png",
+        "app_name":"Filters for Selfies"
+      },
+
+      "ads_list": ["am"]
+    },
+
 	"sweet.beauty.camera": {
       "is_id": "",
 
@@ -44,6 +75,18 @@
       "am_na": "ca-app-pub-4405630775762626/1491271296",
 
       "interval": 45000,
+
+      "status":2,
+      "version_code":10,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Filters for Selfies is an indescribable look, we have paid particular attention to the best HD screen quality. Sweet Filter app make fantastic photos with Filters for Selfies effect.",
+        "package":"filters.selfie.camera.selfie",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstudiodb/livestickercam/master/ad/icon3.png",
+        "app_name":"Filters for Selfies"
+      },
 
       "ads_list": ["am"]
     },
